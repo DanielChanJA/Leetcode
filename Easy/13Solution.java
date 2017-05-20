@@ -1,15 +1,3 @@
-
-
-/**
- * This solution runs in O(n) time, where n is the number of characters in the given string.
- * 
- * This solution ensures that the string given is all uppercase and accounts for the event
- * where the given string contains an invalid roman numeral character.
- * 
- * Leetcode: https://leetcode.com/problems/roman-to-integer/#/description
- */
-
-
 /**
  * This solution runs in O(n) time, where n is the number of characters in the given string.
  * 
