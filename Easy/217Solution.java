@@ -8,7 +8,6 @@ import java.util.*;
     Accessing and modifying in a hashtable is a O(1) operation.
 
     Leetcode: https://leetcode.com/problems/contains-duplicate/#/description
-    
  */
 public class Solution {
     public boolean containsDuplicate(int[] nums) {
