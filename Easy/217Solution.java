@@ -6,6 +6,9 @@ import java.util.*;
     in the worst case.
     
     Accessing and modifying in a hashtable is a O(1) operation.
+
+    Leetcode: https://leetcode.com/problems/contains-duplicate/#/description
+    
  */
 public class Solution {
     public boolean containsDuplicate(int[] nums) {
